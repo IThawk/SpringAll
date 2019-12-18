@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7418617-ea24-4956-a944-c7a5ae8e1d64" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/07.Spring-Boot-AOP-Log/target/" />
+    <ignored path="$PROJECT_DIR$/09.Spring-Boot-Redis-Cache/target/" />
+    <ignored path="$PROJECT_DIR$/10.Spring-Boot-Ehcache-Cache/target/" />
+    <ignored path="$PROJECT_DIR$/06.Spring-Boot-JdbcTemplate-MultiDataSource/target/" />
+    <ignored path="$PROJECT_DIR$/02.Spring-Boot-Config/target/" />
+    <ignored path="$PROJECT_DIR$/13.Spring-Boot-Shiro-Authorization/target/" />
+    <ignored path="$PROJECT_DIR$/05.Spring-Boot-MyBatis-MultiDataSource/target/" />
+    <ignored path="$PROJECT_DIR$/03.Spring-Boot-MyBatis/target/" />
+    <ignored path="$PROJECT_DIR$/04.Spring-Boot-JdbcTemplate/target/" />
+    <ignored path="$PROJECT_DIR$/14.Spring-Boot-Shiro-Redis/target/" />
+    <ignored path="$PROJECT_DIR$/11.Spring-Boot-Shiro-Authentication/target/" />
+    <ignored path="$PROJECT_DIR$/08.Spring-Boot-Thymeleaf/target/" />
+    <ignored path="$PROJECT_DIR$/12.Spring-Boot-Shiro-RememberMe/target/" />
+    <ignored path="$PROJECT_DIR$/01.Start-Spring-Boot/target/" />
+    <ignored path="$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Hystrix-Dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/30.Spring-Cloud-Hystrix-Circuit-Breaker/Eureka-Service/target/" />
+    <ignored path="$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Eureka-Service/target/" />
+    <ignored path="$PROJECT_DIR$/21.Spring-Boot-Actuator/target/" />
+    <ignored path="$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Hystrix-Dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/20.Spring-Boot-Swagger2/target/" />
+    <ignored path="$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Client/target/" />
+    <ignored path="$PROJECT_DIR$/33.Spring-Cloud-Feign-Declarative-REST-Client/Eureka-Client/target/" />
+    <ignored path="$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Eureka-Service/target/" />
+    <ignored path="$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Service/target/" />
+    <ignored path="$PROJECT_DIR$/35.Spring-Security-Authentication/target/" />
+    <ignored path="$PROJECT_DIR$/23.Spring-Boot-Admin/Spring Boot Admin Client/target/" />
+    <ignored path="$PROJECT_DIR$/24.Spring-Boot-Devtools/target/" />
+    <ignored path="$PROJECT_DIR$/19.Spring-Boot-Testing/target/" />
+    <ignored path="$PROJECT_DIR$/23.Spring-Boot-Admin/Spring Boot Admin Server/target/" />
+    <ignored path="$PROJECT_DIR$/42.Spring-Cloud-Bus/Eureka-Service/target/" />
+    <ignored path="$PROJECT_DIR$/41.Spring-Cloud-Config/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/34.Start-Spring-Security/target/" />
+    <ignored path="$PROJECT_DIR$/41.Spring-Cloud-Config/config-client/target/" />
+    <ignored path="$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Ribbon-Consumer/target/" />
+    <ignored path="$PROJECT_DIR$/26.Spring-Boot-Filter-Interceptor/target/" />
+    <ignored path="$PROJECT_DIR$/41.Spring-Cloud-Config/Eureka-Service/target/" />
+    <ignored path="$PROJECT_DIR$/33.Spring-Cloud-Feign-Declarative-REST-Client/Eureka-Service/target/" />
+    <ignored path="$PROJECT_DIR$/15.Spring-Boot-Shiro-Ehcache/target/" />
+    <ignored path="$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Ribbon-Consumer/target/" />
+    <ignored path="$PROJECT_DIR$/36.Spring-Security-ValidateCode/target/" />
+    <ignored path="$PROJECT_DIR$/33.Spring-Cloud-Feign-Declarative-REST-Client/Feign-Consumer/target/" />
+    <ignored path="$PROJECT_DIR$/40.Spring-Boot-Dubbo-Zookeeper/server-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Ribbon-Consumer/target/" />
+    <ignored path="$PROJECT_DIR$/38.Spring-Security-SmsCode/target/" />
+    <ignored path="$PROJECT_DIR$/30.Spring-Cloud-Hystrix-Circuit-Breaker/Ribbon-Consumer/target/" />
+    <ignored path="$PROJECT_DIR$/18.Spring-Boot-Jackson/target/" />
+    <ignored path="$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Turbine-Stream/target/" />
+    <ignored path="$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Eureka-Service/target/" />
+    <ignored path="$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Eureka-Client/target/" />
+    <ignored path="$PROJECT_DIR$/42.Spring-Cloud-Bus/config-client/target/" />
+    <ignored path="$PROJECT_DIR$/27.Spring-Boot-Mapper-PageHelper/target/" />
+    <ignored path="$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Zuul-Gateway/target/" />
+    <ignored path="$PROJECT_DIR$/37.Spring-Security-RememberMe/target/" />
+    <ignored path="$PROJECT_DIR$/16.Spring-Boot-Shiro-Thymeleaf-Tag/target/" />
+    <ignored path="$PROJECT_DIR$/30.Spring-Cloud-Hystrix-Circuit-Breaker/Eureka-Client/target/" />
+    <ignored path="$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Feign-Consumer/target/" />
+    <ignored path="$PROJECT_DIR$/22.Spring-Boot-Email/target/" />
+    <ignored path="$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Eureka-Service/target/" />
+    <ignored path="$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Turbine/target/" />
+    <ignored path="$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Eureka-Client/target/" />
+    <ignored path="$PROJECT_DIR$/40.Spring-Boot-Dubbo-Zookeeper/server-provider/target/" />
+    <ignored path="$PROJECT_DIR$/25.Spring-Boot-Exception/target/" />
+    <ignored path="$PROJECT_DIR$/42.Spring-Cloud-Bus/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Eureka-Client/target/" />
+    <ignored path="$PROJECT_DIR$/40.Spring-Boot-Dubbo-Zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Eureka-Client/target/" />
+    <ignored path="$PROJECT_DIR$/17.Spring-Boot-Shiro-Session/target/" />
+    <ignored path="$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Server-Consumer/target/" />
+    <ignored path="$PROJECT_DIR$/40.Spring-Boot-Dubbo-Zookeeper/common-api/target/" />
+    <ignored path="$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Zipkin-Server/target/" />
+    <ignored path="$PROJECT_DIR$/51.Spring-Bean-Lifecycle/target/" />
+    <ignored path="$PROJECT_DIR$/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/server-provider/target/" />
+    <ignored path="$PROJECT_DIR$/48.Spring-Boot-CORS-Support/target/" />
+    <ignored path="$PROJECT_DIR$/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/server-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/53.Dubbo-High-Availability/target/" />
+    <ignored path="$PROJECT_DIR$/53.Dubbo-High-Availability/common-api/target/" />
+    <ignored path="$PROJECT_DIR$/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/target/" />
+    <ignored path="$PROJECT_DIR$/50.Spring-Regist-Bean/target/" />
+    <ignored path="$PROJECT_DIR$/55.Spring-Cloud-Consul/server-proivder/target/" />
+    <ignored path="$PROJECT_DIR$/53.Dubbo-High-Availability/server-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/45.Spring-Boot-SpringApplication/target/" />
+    <ignored path="$PROJECT_DIR$/49.Spring-Boot-Async/target/" />
+    <ignored path="$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Server-Provider2/target/" />
+    <ignored path="$PROJECT_DIR$/44.Spring-Boot-Autoconfiguration/target/" />
+    <ignored path="$PROJECT_DIR$/46.Spring-Boot-Hibernate-Validator/target/" />
+    <ignored path="$PROJECT_DIR$/47.Spring-Boot-Content-Negotiation/target/" />
+    <ignored path="$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Server-Provider1/target/" />
+    <ignored path="$PROJECT_DIR$/55.Spring-Cloud-Consul/server-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/53.Dubbo-High-Availability/server-provider/target/" />
+    <ignored path="$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Eureka-Service/target/" />
+    <ignored path="$PROJECT_DIR$/54.Spring-Boot-Kafka/target/" />
+    <ignored path="$PROJECT_DIR$/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/common-api/target/" />
+    <ignored path="$PROJECT_DIR$/62.Spring-Boot-Shiro-JWT/target/" />
+    <ignored path="$PROJECT_DIR$/58.Spring-Boot-WebFlux-crud/target/" />
+    <ignored path="$PROJECT_DIR$/61.Spring-security-Permission/target/" />
+    <ignored path="$PROJECT_DIR$/65.Spring-Security-OAuth2-Config/target/" />
+    <ignored path="$PROJECT_DIR$/64.Spring-Security-OAuth2-Customize/target/" />
+    <ignored path="$PROJECT_DIR$/59.Spring-Security-SessionManager/target/" />
+    <ignored path="$PROJECT_DIR$/57.Spring-Boot-WebFlux/webflux/target/" />
+    <ignored path="$PROJECT_DIR$/56.Spring-Boot-MongoDB-crud/target/" />
+    <ignored path="$PROJECT_DIR$/60.Spring-Security-Logout/target/" />
+    <ignored path="$PROJECT_DIR$/63.Spring-Security-OAuth2-Guide/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogProperties.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/bean/BlogProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigBean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/bean/ConfigBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/controller/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding>
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestConfigBean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/bean/TestConfigBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/test.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="idea64.exe.vmoptions" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="85" />
+    <option name="width" value="1690" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="BlogProperties" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="ConfigBean" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="TestConfigBean" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="IndexController" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="SpringAll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAll" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Spring-Boot-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02.Spring-Boot-Config" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-Boot-Config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.Application" />
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-Boot-Jackson" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.DemoApplication" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Start-Spring-Boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.demo.DemoApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.DemoApplication (1)" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7418617-ea24-4956-a944-c7a5ae8e1d64" name="Default" comment="" />
+      <created>1563632126332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563632126332</updated>
+      <workItem from="1563632127857" duration="918000" />
+      <workItem from="1563669644393" duration="772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1690000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="85" y="0" width="1690" height="1000" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Cargo" order="3" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32944787" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39932126" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32918552" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25276074" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="7" />
+      <window_info id="Alibaba Cloud Explorer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/controller/IndexController.java</url>
+          <line>22</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/bean/BlogProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/bean/ConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/bean/TestConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Start-Spring-Boot/src/main/java/com/springboot/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.9.RELEASE/spring-boot-1.5.9.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="146" column="42" selection-start-line="146" selection-start-column="42" selection-end-line="146" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/bean/ConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/bean/TestConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/bean/BlogProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/java/com/springboot/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring-Boot-Config/src/main/resources/test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
